@@ -4,10 +4,10 @@ For work with remote servers that don't have any graphic interface.
 
 ## Easy navigation
 
-- [Working with files and directories](#task-1)
-- [Editing files, checking and killing proccesses, working with websites](#task-2)
+- [Working with files and directories](#part-1)
+- [Editing files, checking and killing proccesses, working with websites](#part-2)
 
-## Task 1
+## Part 1
 
 ##### Working with files and directories
 
@@ -42,7 +42,7 @@ nano file1.txt + manual replacement   # Using one of the editors, replace all li
 nano file3.txt + manual replacement
 ```
 
-## Task 2
+## Part 2
 
 ##### Editing files, checking and killing proccesses, pinging websites
 
